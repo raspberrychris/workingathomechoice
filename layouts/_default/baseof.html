@@ -27,9 +27,9 @@
     {{ hugo.Generator }}
     {{/* NOTE: For Production make sure you add `HUGO_ENV="production"` before your build command */}}
     {{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-      <META NAME="ROBOTS" CONTENT="index, nofollow">
+      <META NAME="ROBOTS" CONTENT="index, follow">
     {{ else }}
-      <META NAME="ROBOTS" CONTENT="index, nofollow">
+      <META NAME="ROBOTS" CONTENT="index, follow">
     {{ end }}
 
     {{ $stylesheet := .Site.Data.webpack_assets.app }}
