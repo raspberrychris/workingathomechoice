@@ -1,6 +1,7 @@
 ---
 title: "About"
-featured_image: https://images.unsplash.com/photo-1493612276216-ee3925520721?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80
+featured_image: "https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80"
+CanonicalUrl: "https://workathomechoice.com/about/"
 ---
 
 # About Us
