@@ -16,3 +16,6 @@ Welcome to [Workathomechoice.com!](/)  This site will provide advice for those w
 [Blog](/blog/)
 
 [Go Freelance](/freelancing/)
+
+
+![wfh](https://images.unsplash.com/photo-1524508762098-fd966ffb6ef9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80)
