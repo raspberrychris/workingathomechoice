@@ -8,7 +8,7 @@ toc: true
 ---
 
 
-The ONS in the UK states that there are now roughly 4.8 million people in self-employment.  This means that 15.1% of the labour force are now working in self employment in the UK.
+**The ONS in the UK states that there are now roughly 4.8 million people in self-employment.  This means that 15.1% of the labour force are now working in self employment in the UK.**
 
 >"The rapid growth of self-employment has been a pronounced feature of the UK labour market in recent years. The number of self-employed increased from 3.3 million people (12.0% of the labour force) in 2001 to 4.8 million (15.1% of the labour force) in 2017. Recent studies of this phenomenon have examined the characteristics of the self-employed (for example, Amankwah and Wales (2016), Tomlinson and Corlett (2017)) but have largely sidestepped the income of the self-employed.
 
@@ -18,7 +18,7 @@ The ONS in the UK states that there are now roughly 4.8 million people in self-e
 
 
 ## How to Become a freelancer
-If you are an expert in your industry or a recent graduate, becoming a freelancer will enable you to have a better work life balance and will put you in control of your career.
+**If you are an expert in your industry or a recent graduate, becoming a freelancer will enable you to have a better work life balance and will put you in control of your career.**
 
 Many people decide to become freelancers as they can follow their passion with their work.  Freelance Photography, Freelance writers, or Freelancing online is become increasingly common now.
 
@@ -28,13 +28,13 @@ Are you thinking of going freelance?  We have put together a checklist for peopl
 
 ### 1. Maintain Discipline at all times
 
-In order to become a successful freelancer you will need to discipline yourself.  In everyday 9-5 jobs you are told what to do by your boss and your company.  With freelance work you don't have anyone doing that.  At first this may seem like a dream, but you need to remember that you are more at risk in the early years of freelancing and you need to be giving your work 110% more that your old day job.  
+**In order to become a successful freelancer you will need to discipline yourself.**  In everyday 9-5 jobs you are told what to do by your boss and your company.  With freelance work you don't have anyone doing that.  At first this may seem like a dream, but you need to remember that you are more at risk in the early years of freelancing and you need to be giving your work 110% more that your old day job.  
 
 ### 2. Get clients
 
-It sounds obvious, but if you are considering going freelance right now, do you have any clients lined up?  If the answer is "no", then you need to start thinking about getting some!  Part of the process of being a freelancer is the process of finding your own clients.
+**It sounds obvious, but if you are considering going freelance right now, do you have any clients lined up?  If the answer is "no", then you need to start thinking about getting some!**  Part of the process of being a freelancer is the process of finding your own clients.
 
-*How do I find my clients?*
+#### How do I find my clients?
 
 Luckily there are many freelance sites now available that now enable you to get clients very quickly.  
 
@@ -50,7 +50,7 @@ The best freelancer sites will be listed below.
 You will need to register with HMRC early on and is an essential part of going freelance.  Luckily everything is easy to manage these days through the HMRC website.  It pays to have all your documents for HMRC easy to access.
 
 
-### Registering as self employed
+#### Registering as self employed
 - [Set up as self employed](https://www.gov.uk/set-up-self-employed)
 - [Set up as a sole trader](https://www.gov.uk/set-up-sole-trader)
 - [Set up your own limited company](https://www.gov.uk/limited-company-formation)
