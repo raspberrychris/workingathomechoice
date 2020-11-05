@@ -1,8 +1,9 @@
 ---
 
-featured_image: "https://images.unsplash.com/photo-1551275073-f8adef647c1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80"
+featured_image: "https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 tags: ["WFH"]
 title: "How much money can I save by working from home 4 days a week"
+CanonicalUrl: "https://workathomechoice.com/blog/how-much-money-can-i-save-by-working-from-home-4-days-a-week.md-/"
 ---
 
 **Finding a job that offers a four-day work week undoubtably means that you will be saving money in the longterm.**  
