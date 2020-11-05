@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Working At Home Choice"
+title = "Work At Home Choice"
 theme = "ananke"
 CanonifyURLs = true
 sectionPagesMenu = "main"
