@@ -15,3 +15,31 @@ The ONS in the UK states that there are now roughly 4.8 million people in self-e
 ![ONS Self-employment-trends-graph](https://i.ibb.co/1Jgtg7b/Figure-1-The-cumulative-change-in-employee-and-self-employed-jobs.png)
 
 > https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/trendsinselfemploymentintheuk/2018-02-07
+
+
+## How to Become a freelancer
+If you are an expert in your industry or a recent graduate, becoming a freelancer will enable you to have a better work life balance and will put you in control of your career.
+
+Many people decide to become freelancers as they can follow their passion with their work.  Freelance Photography, Freelance writers, or Freelancing online is become increasingly common now.
+
+Going freelance is often seen as a risky option to a 9-5 job, but for many people, once they have started the freelance route they will never go back.  Working on your own schedule doing something that you enjoy doing is always going to be the best choice for those who need flexibility in their working schedule.
+
+Are you thinking of going freelance?  We have put together a checklist for people thinking of going freelance.
+
+1. Maintain Discipline at all times
+
+In order to become a successful freelancer you will need to discipline yourself.  In everyday 9-5 jobs you are told what to do by your boss and your company.  With freelance work you don't have anyone doing that.  At first this may seem like a dream, but you need to remember that you are more at risk in the early years of freelancing and you need to be giving your work 110% more that your old day job.  
+
+
+2. Get clients
+
+It sounds obvious, but if you are considering going freelance right now, do you have any clients lined up?  If the answer is "no", then you need to start thinking about getting some!  Part of the process of being a freelancer is the process of finding your own clients.
+
+*How do I find my clients?*
+
+Luckily there are many freelance sites now available that now enable you to get clients very quickly.  The best freelancer sites will be listed below.
+
+
+
+3. Register for Tax with HMRC
+4. Insurance
