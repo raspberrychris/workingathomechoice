@@ -34,7 +34,7 @@ Are you thinking of going freelance?  We have put together a checklist for peopl
 
 **In order to become a successful freelancer you will need to discipline yourself.**  In everyday 9-5 jobs you are told what to do by your boss and your company.  With freelance work you don't have anyone doing that.  At first this may seem like a dream, but you need to remember that you are more at risk in the early years of freelancing and you need to be giving your work 110% more that your old day job.  
 
-### 2. Get clients
+### 2. Get clients and how to get them
 
 ![getting clients](https://images.unsplash.com/photo-1531539134685-27d854339120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
 
@@ -50,6 +50,26 @@ Luckily there are many freelance sites now available that now enable you to get 
 
 The best freelancer sites will be listed below.
 
+- (Coming soon)
+
+#### Other ways to get Clients
+
+#### i) P2P recommendations and word of mouth
+
+If other people hear from your existing clients that you are a great person to work with you are likely to get recommended for more work.  Personal recommendations are very important for local businesses.  If you are creating great work for your existing clients, then you are likely to win more clients through personal recommendations.
+
+#### ii) Market yourself professionally online
+
+Do you have a website?  Do you have social media accounts?  Are they up to date?  These are the types of questions that you should be asking yourself when you take the steps to becoming a freelancer or self employed.  You have to put yourself in your client's shoes and understand that they will make decisions based on these aspects. Ensuring you have a portfolio of your work on your website is very important to give clients an idea of what services you can provide for them.  These days a lot of people do their research through Google and
+
+#### iii) Network in Person (Or via video call)
+
+For 2020 it was hard to meet in person at all due to the global pandemic, but the flipside of this is that video calling has become a lot more common and now is considered part of normal business.  Devices such as the Facebook Portal allow you to contact people on WebEx, Zoom and through other methods making it a catch-all solution for video calling.  Ensure you are aware of the major video calling products and be available for a call on anyone of them, or why not be proactive and suggest a quick video call.
+
+
+#### iii) Establish yourself as an expert
+
+This comes with the marketing of yourself, whether this is through your website your social media, in person or all three.  You need to establish yourself as an expert in the field otherwise clients will not take you seriously and will go to your competitors.
 
 ### 3. Register for Tax with HMRC
 
