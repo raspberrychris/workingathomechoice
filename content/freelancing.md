@@ -7,6 +7,7 @@ CanonicalUrl: "/freelancing/"
 toc: true
 ---
 
+[toc]
 
 **The ONS in the UK states that there are now roughly 4.8 million people in self-employment.  This means that 15.1% of the labour force are now working in self employment in the UK.**
 
@@ -36,12 +37,16 @@ Are you thinking of going freelance?  We have put together a checklist for peopl
 
 #### How do I find my clients?
 
+In an ideal situation you would leave your job with a contract of some sort with a client prepared for when you become freelance.  This scenario however isn't always the case and it can be tricky to find clients.  A lot of freelancers use sites such as [Linkedin](https://linkedin.com) to manually find clients or decision makers.  Linkedin can be an incredibly useful tool for finding potential clients, but it also is worth looking at other professional sites as there may be less competition.
+
 Luckily there are many freelance sites now available that now enable you to get clients very quickly.  
 
 The best freelancer sites will be listed below.
 
 
 ### 3. Register for Tax with HMRC
+
+![tax](https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1472&q=80)
 
 > If you start working for yourself, you’re classed as a sole trader. This means you’re self-employed - even if you haven’t yet told HM Revenue and Customs (HMRC).
 > https://www.gov.uk/working-for-yourself
