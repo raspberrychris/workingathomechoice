@@ -26,20 +26,36 @@ Going freelance is often seen as a risky option to a 9-5 job, but for many peopl
 
 Are you thinking of going freelance?  We have put together a checklist for people thinking of going freelance.
 
-1. Maintain Discipline at all times
+### 1. Maintain Discipline at all times
 
 In order to become a successful freelancer you will need to discipline yourself.  In everyday 9-5 jobs you are told what to do by your boss and your company.  With freelance work you don't have anyone doing that.  At first this may seem like a dream, but you need to remember that you are more at risk in the early years of freelancing and you need to be giving your work 110% more that your old day job.  
 
-
-2. Get clients
+### 2. Get clients
 
 It sounds obvious, but if you are considering going freelance right now, do you have any clients lined up?  If the answer is "no", then you need to start thinking about getting some!  Part of the process of being a freelancer is the process of finding your own clients.
 
 *How do I find my clients?*
 
-Luckily there are many freelance sites now available that now enable you to get clients very quickly.  The best freelancer sites will be listed below.
+Luckily there are many freelance sites now available that now enable you to get clients very quickly.  
+
+The best freelancer sites will be listed below.
 
 
+### 3. Register for Tax with HMRC
 
-3. Register for Tax with HMRC
-4. Insurance
+> If you start working for yourself, you’re classed as a sole trader. This means you’re self-employed - even if you haven’t yet told HM Revenue and Customs (HMRC).
+> https://www.gov.uk/working-for-yourself
+
+
+You will need to register with HMRC early on and is an essential part of going freelance.  Luckily everything is easy to manage these days through the HMRC website.  It pays to have all your documents for HMRC easy to access.
+
+
+### Registering as self employed
+- [Set up as self employed](https://www.gov.uk/set-up-self-employed)
+- [Set up as a sole trader](https://www.gov.uk/set-up-sole-trader)
+- [Set up your own limited company](https://www.gov.uk/limited-company-formation)
+- [Become a Partner in a business partnership](https://www.gov.uk/set-up-business-partnership)
+
+### 4. Insurance
+
+Insurance is definitely something to consider when you make the move to becoming a freelancer.
