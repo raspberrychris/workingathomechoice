@@ -19,6 +19,7 @@ toc: true
 
 ## How to Become a freelancer
 ![how to become a freelancer](https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
+
 **If you are an expert in your industry or a recent graduate, becoming a freelancer will enable you to have a better work life balance and will put you in control of your career.**
 
 Many people decide to become freelancers as they can follow their passion with their work.  Freelance Photography, Freelance writers, or Freelancing online is become increasingly common now.
@@ -28,12 +29,18 @@ Going freelance is often seen as a risky option to a 9-5 job, but for many peopl
 Are you thinking of going freelance?  We have put together a checklist for people thinking of going freelance.
 
 ### 1. Maintain Discipline at all times
+
 ![discipline image](https://images.unsplash.com/photo-1499290731724-12e120cfaef3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80)
+
 **In order to become a successful freelancer you will need to discipline yourself.**  In everyday 9-5 jobs you are told what to do by your boss and your company.  With freelance work you don't have anyone doing that.  At first this may seem like a dream, but you need to remember that you are more at risk in the early years of freelancing and you need to be giving your work 110% more that your old day job.  
 
 ### 2. Get clients
+
 ![getting clients](https://images.unsplash.com/photo-1531539134685-27d854339120?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
-**It sounds obvious, but if you are considering going freelance right now, do you have any clients lined up?  If the answer is "no", then you need to start thinking about getting some!**  Part of the process of being a freelancer is the process of finding your own clients.
+
+**It sounds obvious, but if you are considering going freelance right now, do you have any clients lined up?  If the answer is "no", then you need to start thinking about getting some!**  
+
+Part of the process of being a freelancer is the process of finding your own clients.
 
 #### How do I find my clients?
 
