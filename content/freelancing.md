@@ -18,7 +18,7 @@ toc: true
 
 
 ## How to Become a freelancer
-![how to become a freelancer]](https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
+![how to become a freelancer](https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80)
 **If you are an expert in your industry or a recent graduate, becoming a freelancer will enable you to have a better work life balance and will put you in control of your career.**
 
 Many people decide to become freelancers as they can follow their passion with their work.  Freelance Photography, Freelance writers, or Freelancing online is become increasingly common now.
