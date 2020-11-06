@@ -7,6 +7,8 @@ toc: true
 ---
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+### Quick Start Guide
+
 - [Complete Amazon Affiliate Marketing Guide](#complete-amazon-affiliate-marketing-guide)
 	- [What is the Amazon Associates Program?](#what-is-the-amazon-associates-program)
 	- [How does Amazon's affiliate program compare to other affiliate programs out there?](#how-does-amazons-affiliate-program-compare-to-other-affiliate-programs-out-there)
@@ -69,9 +71,46 @@ Amazon runs affiliate programs in the following countries.  You can sign up to e
 
 For anyone who works in affiliate marketing it is often true that they start off using Amazon Affiliates and then move on to other affiliate schemes following that.  Amazon affiliate scheme is great for beginners as the scheme is simple to join and as long as you follow the rules around Amazon affiliates then you should avoid getting banned.  Black Hat tactics are not permitted in terms of Amazon Affiliates, so don't think you can easily spam your way to success on this program.
 
+- Amazon is one of the biggest and most trusted websites in the world
+- Easy to get started
+- Wide range of products on offer.  Amazon boasts one of the biggest product catalogues on the internet.
+- Commissions for everything a customer buys at Amazon
+
 ## Amazon affiliate marketing: Pros and Cons
 
 One of the big Pros around the Amazon affiliate marketing program is the size of the offering.  Amazon has one of the largest product catalogues in the world.  That is a fairly big pro!  This means that you can set up an Amazon Affiliate site around pretty much any niche and make it your own.  
+
+The Cons are that there is no quick way to success with Amazon Affiliate.  It takes time.  If you already have a platform that is getting considerable traffic then monetising that traffic shouldn't be that difficult, but if you are starting from scratch then you may find some difficulty in getting started with affiliate.
+
+The Commissions are also fairly low for certain categories and Amazon have actually lowered their commission rates this year much to the annoyance of amazon affiliates around the world.  Amazon's commission structure depends on which territory you are an affiliate for.
+
+## Amazon UK Affiliate commissions list
+
+| Product Category                                                                                                                                                  | Standard Commission Income | Special Conditions                                |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------|
+| Amazon Fashion: Clothing & Accessories, Shoes, Handbags, Wallets, Jewellery, Watches, Luggage, Amazon Fashion Women, Men and Kids Private Label                   |                            | Direct Qualifying Purchases:                      |
+|                                                                                                                                                                   | 11%                        | Qualifying Revenues per month = less than £2,500  |
+|                                                                                                                                                                   | 12%                        | Qualifying Revenues per month = £2,500 or more    |
+|                                                                                                                                                                   | 1.5%                       | Indirect Qualifying Purchases                     |
+| Handmade                                                                                                                                                          | 10%                        |                                                   |
+| Personal Care Appliances, Health and Personal Care, Stationery and Office Supplies, Baby, Grocery, Pet Products, Car & Motorbike, Beauty                          | 7%                         |                                                   |
+| Home: Furniture, Home Improvement, Home, Kitchen & Dining, Patio, Lawn & Garden, Power & Hand Tools                                                               |                            | Direct Qualifying Purchases:                      |
+|                                                                                                                                                                   | 7%                         | Qualifying Revenues per month = less than £40,000 |
+|                                                                                                                                                                   | 8%                         | Qualifying Revenues per month = £40,000 or more   |
+|                                                                                                                                                                   | 1.5%                       | Indirect Qualifying Purchases                     |
+| Hobbies: Outdoor Recreation, Toys & Games, Sports & Fitness                                                                                                       |                            | Direct Qualifying Purchases:                      |
+|                                                                                                                                                                   | 6%                         | Qualifying Revenues per month = less than £7,500  |
+|                                                                                                                                                                   | 7%                         | Qualifying Revenues per month = £7,500 or more    |
+|                                                                                                                                                                   | 1.5%                       | Indirect Qualifying Purchases                     |
+| Books, Kindle eBooks, Music, Musical Instruments, DVD and Blu-Ray, Software, Beer, Wine & Spirits, Digital Video Games, Business Industrial & Scientific Products | 5%                         |                                                   |
+| Amazon Devices: Fire TV, Kindle and Echo Devices and Accessories                                                                                                  |                            | Direct Qualifying Purchases:                      |
+|                                                                                                                                                                   | 4%                         | Qualifying Revenues per month = less than £7,500  |
+|                                                                                                                                                                   | 7%                         | Qualifying Revenues per month = £7,500 or more    |
+|                                                                                                                                                                   | 1.5%                       | Indirect Qualifying Purchases                     |
+| Computer, Electronics, Video Games, Camera, Major Appliances, Digital Software                                                                                    | 3%                         |                                                   |
+| Home Entertainment, Smartphones and Mobile Phones                                                                                                                 | 1%                         |                                                   |
+| Prime Wardrobe Purchases, Gift Cards                                                                                                                              | 0%                         |                                                   |
+
 
 ## How to become an Amazon affiliate: Step-by-step guide
 
