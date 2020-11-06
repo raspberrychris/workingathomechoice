@@ -8,4 +8,6 @@ CanonicalUrl: "/passive-income-methods/"
 
 ---
 
-1. [Complete Amazon Affiliate Marketing Guide](/complete-amazon-affiliate-guide)
+Below are some of our most recommended methods for earning a passive income online.  These are tried and tested methods that we have used ourselves to make thousands of pounds a month in income.
+
+1. [Complete Amazon Affiliate Marketing Guide](/complete-amazon-affiliate-marketing-guide/)

@@ -1,6 +1,6 @@
 ---
 title: Complete Amazon Affiliate Marketing Guide
-featured_image: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1351&q=80'
+featured_image: "https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 type: page
 CanonicalUrl: "/complete-amazon-affiliate-marketing-guide/"
 toc: true
