@@ -7,3 +7,5 @@ CanonicalUrl: "/passive-income-methods/"
 
 
 ---
+
+1. [Complete Amazon Affiliate Marketing Guide](/complete-amazon-affiliate-guide)
