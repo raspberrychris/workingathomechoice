@@ -5,8 +5,6 @@ featured_image: "https://images.unsplash.com/photo-1551275073-f8adef647c1d?ixlib
 description: "Transform your life today by earning a passive income working from the comfort of your own home"
 CanonicalUrl: "/"
 ---
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
 		- [Skip to our top recommended ways to make money online now:](#skip-to-our-top-recommended-ways-to-make-money-online-now)
 		- [Find out a bit more about me, Chris, the author of this site and my own journey to start working from home on a more permanent basis and start my own business working from home.](#find-out-a-bit-more-about-me-chris-the-author-of-this-site-and-my-own-journey-to-start-working-from-home-on-a-more-permanent-basis-and-start-my-own-business-working-from-home)
 - [The Working From Home Choice - How can I work from home?](#the-working-from-home-choice-how-can-i-work-from-home)
