@@ -9,7 +9,7 @@ CanonicalUrl: "/benefits-of-working-from-home/"
 
 **What are the benefits of working from home? Remote work has many advantages for employees such as no daily commute, a much better work life balance, lower costs, lower carbon footprint on the environment, better work productivity and overall, more flexibility.**
 
-## - 1. Work life-balance.  WFH means that
+## - 1. Better Work life-balance
 
 **Following a year of working from home for office based jobs, companies are now  realising that employees are just as focused and productive working at home as they are in the office. ** For some companies this has even meant that they are now moving out of their offices and are become remote working companies.
 
@@ -23,7 +23,7 @@ CanonicalUrl: "/benefits-of-working-from-home/"
 
 This incredible inefficiency in our working lives means that around 2 hours are wasted for each employee commuting into work every day.  If these commuting hours were reinvested into remote working then employees would only need to work a 4 day week as they would save 8 hours from commuting per week.
 
-## - 4. Reduce your Carbon Footprint and save the environment
+## - 4. Reduce your Carbon Footprint and save the Environment
 
 There is always a lot of talk about saving the planet reducing our carbon footprints and living cleaner, greener lives.  But the connection between working from home and the environmental impact is rarely made.  According to the [NYPost](https://nypost.com/2020/04/21/study-explores-the-environmental-benefits-of-working-from-home/), **over 75% of office workers said that their commute to work is something that they felt guilty about when it came to the impact on the environment.**
 
@@ -39,7 +39,7 @@ emission factors and travel survey data).13,14"
 
 >Source: [https://prod-drupal-files.storage.googleapis.com/documents/resource/public/Homeworking%20-%20Helping%20businesses%20cut%20costs%20and%20reduce%20their%20carbon%20footprint%20-%20REPORT.pdf](https://prod-drupal-files.storage.googleapis.com/documents/resource/public/Homeworking%20-%20Helping%20businesses%20cut%20costs%20and%20reduce%20their%20carbon%20footprint%20-%20REPORT.pdf)
 
-## - 5. Increased productivity
+## - 5. Increased Productivity
 
 With no commute employees are finding that working from home enables them to be more productive than when they are in the office.  Working from home means less interruptions from colleagues, reduced office politics and genearlly a quieter working space.  It is clear that when working from home is deployed correctly it can cause a boost in employee performance.
 
