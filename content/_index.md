@@ -6,17 +6,19 @@ description: "Transform your life by earning a passive income from home"
 CanonicalUrl: "/"
 ---
 
-**Welcome to [Workathomechoice.com!](/)  This site will provide advice for those who are either looking to start working from home, or those who want to start their own business from home.**  
+Welcome to [Workathomechoice.com!](/)  This site will provide advice for those who are either looking to start working from home, or those who want to start their own business from home.  
 
 ## Skip to our top recommended ways to make money online now:
 
-[Passive Income Methods](/passive-income-methods/)
-[Blog](/blog/)
-[Go Freelance](/freelancing/)
+- [Passive Income Methods](/passive-income-methods/)
 
-**Find out a bit more about me, Chris, the author of this site and my own journey to start working from home on a more permanent basis and start my own business working from home.**
+- [Blog](/blog/)
 
-[About Chris](/about/)
+- [Go Freelance](/freelancing/)
+
+## Find out a bit more about me, Chris, the author of this site and my own journey to start working from home on a more permanent basis and start my own business working from home.
+
+- [About Chris](/about/)
 
 # The Working From Home Choice - How can I work from home?
 
@@ -38,7 +40,7 @@ Certain companies such as ASOS, Boohoo and other fashion led companies have inve
 
 It seems likely that most office based companies would now start to question the reasoning behind maintaining their larger offices in expensive city centre locations.  Why maintain expensive offices when that money could be reinvested back into the business and encourage employees to work from home?
 
-## Change and evolution to "Office everywhere"
+### Change and evolution to "Office everywhere"
 
 This has resulted in some big changes in office culture since the start of the year.  Previously if your work place was similar to mine there was an office belief that working from home was equivalent to not doing any work.  If someone had to work from home pre-covid, it was generally accepted that they wouldn't be working as hard as if they were in the office.  This belief has now largely been shattered as some companies (such as mine) have been forced to work from home for the past 9 or so months of 2020.  Yes the office remains "open" but is anyone actually going to the office? No.
 
@@ -84,7 +86,7 @@ Previously we would come into the office because that is where the computer was,
 
 ###  Social aspects of work culture
 
-Last year ["WebEx"](https://www.webex.com/) and ["Zoom"](https://zoom.us/) were phrases that were largely confined to the office, and now fastforward to 2020 and "Zoom" has now pretty much become a verb like Google became previously.  What this means for working from home is that these methods of communication are now becoming more accepted as being normal.  Yes, they are not as good as the real thing just yet and yes, there are occasional drops in sound and video quality, but on the whole video call technology is only going to get better and not worse, so it is very likely that this will become the "new normal" for simple office procedures such as interviews, client meetings and employee reviews if they are not able to be performed in the office.
+Last year "WebEx" and "Zoom" were phrases that were largely confined to the office, and now fastforward to 2020 and "Zoom" has now pretty much become a verb like Google became previously.  What this means for working from home is that these methods of communication are now becoming more accepted as being normal.  Yes, they are not as good as the real thing just yet and yes, there are occasional drops in sound and video quality, but on the whole video call technology is only going to get better and not worse, so it is very likely that this will become the "new normal" for simple office procedures such as interviews, client meetings and employee reviews if they are not able to be performed in the office.
 
 ### Steps to take to start working from home
 
@@ -166,3 +168,73 @@ I have put together a list of some of the products that I use when working from 
 6. A screen switcher (if you have multiple computers)
 7. A pair of high quality headphones with a mic
 8. Decent lighting - This is something that most people will forget to include within their working from home setup
+
+
+### Choosing the perfect office chair for working from home
+
+Ensuring that you have a sturdy and supportive office chair is a lot more important than you think.
+
+## My recommendations for Office Chairs
+
+Having suffered back problems previously, I was very keen to get a supportive chair that was as good as the one that I used at work.  As my job is broadly based in IT, I spend a lot of time sitting at a desk and my desk along with my keyboard are two of my most used items in my daily life.
+
+The first chair office chair I would recommend is the IKEA.   This is a generally decent office chair, I managed to get one of these second hand and it has been fantastic in terms of the support for my back, whilst also not being particularly expensive to buy.
+
+## My Recommendation for Backpain cushions
+
+If like me, you suffer from occasional back pain then you may find that a supportive cushion makes a good investment.  It has certainly helped make my life more comfortable (literally).  The cushion I would recommend is the XXXXXXXXXXXXXX.  You can browse similar cushions here.
+
+Choosing the right keyboard is a really important decision when it comes to working from home.
+
+## My Recommendations for Office Desks
+
+This entirely depends on how much space you have, but for my corner of my flat I have found that an L shaped desk works perfectly well and doesnt impact too much on the room.  (I didn't want to feel like I was in the office all the time)!
+
+## My recommendations for Keyboards
+
+Again, this is a personal decision and different people like different styles of keyboards.
+
+I am a big fan of all things that are wireless, so my choice of keyboard was the Microsoft keyboard (LINK HERE).   This keyboard mimics the Apple like keyboard but makes it a bit more usable in my opinion.  It also has a built in trackpad into it so you can use it as a mouse if you need to.
+
+## Desk drawer
+
+
+### Other choices of desk drawers
+
+
+
+
+As my desk didnt have a desk drawer for my keyboard I had to find a way to install one myself.  Luckily this was a lot easier than i thought it would be and if you have got the keyboard above I can confirm that this model of pull out keyboard tray (LINK HERE) will work very well with the model of keyboard that i have suggested above.
+
+## My recommendations for finding a good Mouse
+
+I've been using computers since the 1980s, so I have been through the whole mouse evolution from the early Amstrad style ball mice to the early 90s Intellimice and now through to optical tracker mice.   I really again **have** to go for a wireless option here as who needs more wires on their desk?
+
+Choosing the right mouse does make a difference.  I was initially a little sceptical that a new mouse bought from Amazon could be better than my work mouse, (as it was pretty good).  I decided to put this to the test though and pitted them against each other in perhaps the most boring contest ever.  Interestingly, the new Logitech mouse (THIS ONE LINK) that i had bought from amazon was much more responsive than my work mouse.  
+
+After I had upgraded my mouse I really started to reassess my whole setup and this is kind of how this blog came about, as I wanted to help people choose the right products to make working from home a little easier.   One good factor of the office is that everything is set up for you everyday and all you have to do is walk into the office and sit down.  I think that is something that those of us who are still working from home realise we took for granted before.
+
+If you are gamer then you will most definitely have your own opinion on the **best mouse** and if you budget stretches to it you can get some really fantastic mice these days.  If however like me though you are but a mere office worker, looking for a mouse that can help increase your productivity then I would recommend the following mice below.
+
+
+### Other highly recommended Mice
+
+These are some of the most highly recommended mice on the internet.
+
+
+## My recommendations for finding a good screen
+
+Again I have been through a few monitors in the past few months trying to find the perfect monitor.
+
+The good news is that you don't always have to spend a fortune to get a decent monitor these days.  In days gone past brands like IYAMA (LINK HERE) used to be one of the most premium brands of screens that you could buy.  The standard office monitors tend to be LG, Samsung or something similar.  When we went into lockdown I decided to buy the cheapest monitor on Amazon at the time and it was the relatively unknown brand XENTA (LINK HERE).  I had never heard of them before and thought I would give them a go and see what it was like.  9 months later, this is still my screen of choice and I would happily get another one.  The only issue with it is if you are switching inputs (I switch between my work computer and my desktop computer), the screen occasionally decides that it doesn't have a signal.  This can be slightly annoying sometimes.
+
+### Other screens that have good reviews around the web are:
+
+
+## How to make money working from home
+
+There are lots of "Get Rich Quick" schemes that will promise that you can work from home for only a few hours a week and will make money than your present job.  As you are probably aware, most of these schemes are likely just to be ways to scam your out of your hard earned money and don't actually offer a real route out of your job.
+
+This blog is about finding a **real** route out of your job and saying goodbye to your boss and your job forever.
+
+We are now living in a unique time where it is possible to make a living passively through the internet.  The internet has brought with it several changes that have meant that there are many ways to make money from the internet if you know what you are doing.
