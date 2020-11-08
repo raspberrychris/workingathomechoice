@@ -2,23 +2,21 @@
 
 title: "Work at Home Choice"
 featured_image: "https://images.unsplash.com/photo-1551275073-f8adef647c1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1347&q=80"
-description: "Transform your life by earning a passive income from home"
+description: "Transform your life today by earning a passive income working from the comfort of your own home"
 CanonicalUrl: "/"
 ---
 
 Welcome to [Workathomechoice.com!](/)  This site will provide advice for those who are either looking to start working from home, or those who want to start their own business from home.  
 
-## Skip to our top recommended ways to make money online now:
+### Skip to our top recommended ways to make money online now:
 
-- [Passive Income Methods](/passive-income-methods/)
+[Passive Income Methods](/passive-income-methods/)
+[Blog](/blog/)
+[Go Freelance](/freelancing/)
 
-- [Blog](/blog/)
+### Find out a bit more about me, Chris, the author of this site and my own journey to start working from home on a more permanent basis and start my own business working from home.
 
-- [Go Freelance](/freelancing/)
-
-## Find out a bit more about me, Chris, the author of this site and my own journey to start working from home on a more permanent basis and start my own business working from home.
-
-- [About Chris](/about/)
+[About Chris](/about/)
 
 # The Working From Home Choice - How can I work from home?
 
@@ -204,7 +202,7 @@ I am a big fan of all things that are wireless, so my choice of keyboard was the
 
 
 
-As my desk didnt have a desk drawer for my keyboard I had to find a way to install one myself.  Luckily this was a lot easier than i thought it would be and if you have got the keyboard above I can confirm that this model of pull out keyboard tray (LINK HERE) will work very well with the model of keyboard that i have suggested above.
+As my desk didn't have a desk drawer for my keyboard I had to find a way to install one myself.  Luckily this was a lot easier than i thought it would be and if you have got the keyboard above I can confirm that this model of pull out keyboard tray (LINK HERE) will work very well with the model of keyboard that i have suggested above.
 
 ## My recommendations for finding a good Mouse
 
@@ -226,7 +224,7 @@ These are some of the most highly recommended mice on the internet.
 
 Again I have been through a few monitors in the past few months trying to find the perfect monitor.
 
-The good news is that you don't always have to spend a fortune to get a decent monitor these days.  In days gone past brands like IYAMA (LINK HERE) used to be one of the most premium brands of screens that you could buy.  The standard office monitors tend to be LG, Samsung or something similar.  When we went into lockdown I decided to buy the cheapest monitor on Amazon at the time and it was the relatively unknown brand XENTA (LINK HERE).  I had never heard of them before and thought I would give them a go and see what it was like.  9 months later, this is still my screen of choice and I would happily get another one.  The only issue with it is if you are switching inputs (I switch between my work computer and my desktop computer), the screen occasionally decides that it doesn't have a signal.  This can be slightly annoying sometimes.
+The good news is that you don't always have to spend a fortune to get a decent monitor these days.  In days gone past brands like **IYAMA**  used to be one of the most premium brands of screens that you could buy.  The standard office monitors tend to be LG, Samsung or something similar.  When we went into lockdown I decided to buy the cheapest monitor on Amazon at the time and it was the relatively unknown brand **XENTA**.  I had never heard of them before and thought I would give them a go and see what it was like.  9 months later, this is still my screen of choice and I would happily get another one.  The only issue with it is if you are switching inputs (I switch between my work computer and my desktop computer), the screen occasionally decides that it doesn't have a signal.  This can be slightly annoying sometimes.
 
 ### Other screens that have good reviews around the web are:
 
