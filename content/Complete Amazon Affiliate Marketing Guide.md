@@ -34,8 +34,6 @@ toc: true
 
 ## What is the Amazon Associates Program?
 
-![amazon-affiliates-image-laptop](https://images.unsplash.com/photo-1599153066743-08810dc8a419?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=967&q=80)
-
 Amazon's affiliate program is a pay for referral program that gives users of its affiliate scheme a commission for every instance a referral from your site enables them to get a sale on Amazon.  In essence, if a visitor to your site clicks a link that refers a user to an Amazon product and then subsequently buys that product, that means that you as the website owner will get a percentage of that sale.  Sounds great right?  That's because it is!  As we all are aware Amazon has gone from strength to strength in recent years and now sells almost anything you can imagine.  Commissions for items vary, so it is important to understand the commission rate before jumping into a specific niche.
 
 ## How does Amazon's affiliate program compare to other affiliate programs out there?
@@ -80,16 +78,11 @@ For anyone who works in affiliate marketing it is often true that they start off
 
 ## Amazon affiliate marketing: Pros and Cons
 
-![amazon-share-price](https://images.unsplash.com/photo-1554260570-e9689a3418b8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1360&q=80)
+One of the big Pros around the Amazon affiliate marketing program is the size of the offering.  Amazon has one of the largest product catalogues in the world.  That is a fairly big pro!  This means that you can set up an Amazon Affiliate site around pretty much any niche and make it your own.  
 
-- One of the big **Pros** around the Amazon affiliate marketing program is the size of the offering.  Amazon has one of the **largest product catalogues** in the world.  That is a fairly big pro!  This means that you can set up an Amazon Affiliate site around pretty much any niche and make it your own.  
+The Cons are that there is no quick way to success with Amazon Affiliate.  It takes time.  If you already have a platform that is getting considerable traffic then monetising that traffic shouldn't be that difficult, but if you are starting from scratch then you may find some difficulty in getting started with affiliate.
 
-- The **Cons** are that there is **no quick way** to success with Amazon Affiliate.  It takes time.  If you already have a platform that is getting considerable traffic then monetising that traffic shouldn't be that difficult, but if you are starting from scratch then you may find some difficulty in getting started with affiliate.
-
-- The **Commissions are also fairly low** for certain categories and Amazon have actually lowered their commission rates this year much to the annoyance of amazon affiliates around the world.  Amazon's commission structure depends on which territory you are an affiliate for.  The UK commissions are listed below.
-
-
-
+The Commissions are also fairly low for certain categories and Amazon have actually lowered their commission rates this year much to the annoyance of amazon affiliates around the world.  Amazon's commission structure depends on which territory you are an affiliate for.
 
 ## Amazon UK Affiliate commissions list
 
@@ -121,33 +114,11 @@ For anyone who works in affiliate marketing it is often true that they start off
 
 ## How to become an Amazon affiliate: Step-by-step guide
 
->Step 1:  Create an Amazon Affiliate Account.  For this example I will use the UK version of the site, but you can use any of the territories above to sign up in the same way.  Click the **Sign Up** button to join the affiliate program.
-
->Step 2:  You will then have to enter your Payee Name, Address, Country and other details in order to join the program.  Fill all these details in and then submit.
-
->Step 3: After submitting your information Amazon will ask you for the details of your websites where you plan to adversise for amazon.  You can enter up to 50 websites here or mobile apps in total.
-
->Step 4:  After adding your website(s) you will need to setup your amazon affiliate **Store Id**
-
->Step 5: The final step is to detail to Amazon how you will be driving traffic to your website.  Will it be through SEO, Social networks or by other means?
-
+Coming soon
 
 ## Amazon affiliate eligibility requirements
 
-To get started in Amazon Affiliates you will need to have a website that doesn't break any of Amazon's terms of service.
-This includes:
-
-- Not promoting sexually explicit material
-- Not promoting violence in any ways
-- Promoting false or defamatory material
-- Promoting hate content that is harmful
-
-
-
-**For a full list of Amazon's Elibility requirements see the below link**
-
-https://affiliate-program.amazon.co.uk/help/operating/policies?ac-ms-src=ac-nav#Associates%20Program%20Participation%20Requirements
-
+Coming soon
 
 ## How to create Amazon affiliate links step by step
 
