@@ -1,3 +1,11 @@
+---
+
+featured_image: "https://images.unsplash.com/photo-1586034679970-cb7b5fc4928a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+tags: ["WFH"]
+title: "Top Tips for Working from Home"
+CanonicalUrl: "/tips-for-working-from-home/"
+---
+
 # Top Tips for Working From Home
 
 - The global pandemic has meant that more of us than ever before are now working from home.  For those of you that are new to working from home as well as those that are seasoned workers from home, this guide will provide the best tips for working from home and being more productive.
