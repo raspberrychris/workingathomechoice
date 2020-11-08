@@ -19,13 +19,13 @@ CanonicalUrl: "/benefits-of-working-from-home/"
 
 ## - 3. Lower Costs
 
-**Want a pay rise?  Working from home will allow you to save money that you would have spent in the office. ** That lunch you have in the canteen, those drinks after work, the tickets that you buy for transportation or the petrol that you put into the car to get to work all add up.  On a 5 day a week commute to work this will be substantial. Working from home means that you are effectively getting a mini pay rise as you no need to battle your way into work.  Which for most people is a costly and stressful business.
+**Want a pay rise?  Working from home will allow you to save money that you would have spent in the office.** That lunch you have in the canteen, those drinks after work, the tickets that you buy for transportation or the petrol that you put into the car to get to work all add up.  On a 5 day a week commute to work this will be substantial. Working from home means that you are effectively getting a mini pay rise as you no need to battle your way into work.  Which for most people is a costly and stressful business.
 
 This incredible inefficiency in our working lives means that around 2 hours are wasted for each employee commuting into work every day.  If these commuting hours were reinvested into remote working then employees would only need to work a 4 day week as they would save 8 hours from commuting per week.
 
 ## - 4. Reduce your Carbon Footprint and save the environment
 
-There is always a lot of talk about saving the planet reducing our carbon footprints and living cleaner, greener lives.  But the connection between working from home and the environmental impact is rarely made.  According to the [NYPost](https://nypost.com/2020/04/21/study-explores-the-environmental-benefits-of-working-from-home/), over 75% of office workers said that their commute to work is something that they felt guilt about when it came to the impact on the environment.
+There is always a lot of talk about saving the planet reducing our carbon footprints and living cleaner, greener lives.  But the connection between working from home and the environmental impact is rarely made.  According to the [NYPost](https://nypost.com/2020/04/21/study-explores-the-environmental-benefits-of-working-from-home/), **over 75% of office workers said that their commute to work is something that they felt guilty about when it came to the impact on the environment.**
 
 In the UK the environmental impact of commuting into work means 3 million tonnes of carbon could be cut if
 
@@ -49,11 +49,11 @@ The key advantage of working from home is that it will provide you with more fle
 
 Small household tasks that would have been completed after you had commuted back from home can now be done during the "commute time" when working from home which means you will be less tired at the end of the day and can enjoy what you want to do in the evening rather than having a seemingly endless list of tasks that you need to complete before the weekend.
 
-Working from home also means that you get more flexibility in what you eat for lunch.  If you are a home cook or a batch cooker then this will mean that you can save money that you would have spent on eating out.  Working from Home eliminates the cost of necessary take away food when you are out and about and means that you don't have to spend so much time in expensive Gyms as you are eating heathier than you were in your old office life.
+**Working from home also means that you get more flexibility in what you eat for lunch.**  If you are a home cook or a batch cooker then this will mean that you can save money that you would have spent on eating out.  Working from Home eliminates the cost of necessary take away food when you are out and about and means that you don't have to spend so much time in expensive Gyms as you are eating heathier than you were in your old office life.
 
 ## Case Study: BT's Homeworking Project
 
-BT have trialled Homeworking since the 90s.  In one of their projects they analysed the benefits and trade-offs of working from home.  The project discovered that the annual saving for 1.4
+**BT** have trialled Homeworking since the 90s.  In one of their projects they analysed the benefits and trade-offs of working from home.  The project discovered that the annual saving for 1.4
 tonnes CO2e.  (Around a 14% reduction per person).  The homeworking project in BT saved 14,000 tonnes of CO2e over 12 months.  Homeworking enabled BT to close some of their offices spaces meaning they saved £60m annually.
 
 >Source: [www2.bt.com/static/i/media/pdf/flex_working_wp_07.pdf]()
