@@ -30,11 +30,15 @@ Since March 2020 working from home become normalised with a lot of office worker
 
 ## Is working from home the inevitable future of work now?
 
+![wfh](https://images.unsplash.com/photo-1489844097929-c8d5b91c456e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80)
+
 Not necessarily, but for some sectors it will become increasingly more normal.   The answer to this question really depends on what industry you are working in.  For tech companies it is an easier decision to make, but for retail companies shutting down a city centre store will make a lot of people redundant and there is no guarantee that by setting up an online store that customers will migrate to the online destination.  So I think it is fair to say that this is the tipping point and businesses will start to invest more in online and having a website rather than maintaining a city centre shop presence.  The reasons for this are that is simply very expensive to set up shop.  You need to provide electricity, heating, water and staff for an office, whereas if you have a website you only have to consider minimal costs to start with and you can control the amount of investment that you put into the shop.
 
 Certain companies such as ASOS, Boohoo and other fashion led companies have invested a lot into become an online only destinations with relative success.
 
 ## Why do companies still need offices now?
+
+![the-office](https://images.unsplash.com/photo-1531973576160-7125cd663d86?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 It seems likely that most office based companies would now start to question the reasoning behind maintaining their larger offices in expensive city centre locations.  Why maintain expensive offices when that money could be reinvested back into the business and encourage employees to work from home?
 
@@ -43,6 +47,8 @@ It seems likely that most office based companies would now start to question the
 This has resulted in some big changes in office culture since the start of the year.  Previously if your work place was similar to mine there was an office belief that working from home was equivalent to not doing any work.  If someone had to work from home pre-covid, it was generally accepted that they wouldn't be working as hard as if they were in the office.  This belief has now largely been shattered as some companies (such as mine) have been forced to work from home for the past 9 or so months of 2020.  Yes the office remains "open" but is anyone actually going to the office? No.
 
 ## Develop your own Passive Income Streams
+
+![passive-income-laptop](https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1002&q=80)
 
 If you are one of the people who enjoys working from home and you are now wondering how you can do this yourself on a more permanent basis and not just while Covid 19 impacts us, then you have come to the right place.  In this blog I will be covering the different **passive income** methods that have worked for me and how you can do the same thing by following the step by step guides.
 
