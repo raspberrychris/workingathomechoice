@@ -54,6 +54,8 @@ If you are one of the people who enjoys working from home and you are now wonder
 
 ## How to escape the 9-5 day job
 
+![how-to-escape-9-5](https://images.unsplash.com/photo-1523287562758-66c7fc58967f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
 ### Your options
 
 1. Ask your current employer for more flexible working option that allows to strike a more manageable balance between work life and home life.
@@ -65,6 +67,8 @@ If you are one of the people who enjoys working from home and you are now wonder
 Over the last few years we have seen a large shift in what the office desk actually looks like. The office desk was a place of work that in modern times had a phone and a computer.  These two tools enabled you to work at the office and you came into the office to have access to these tools.  Could you work from home in this period, no.
 
 ### The death of the desk phone
+
+![desk-phone](https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 Desk phones which used to sit proudly on all office desks are now slowly being replaced by a set of headphones that you use with your computer to make calls on Microsoft Teams or Skype.  
 
