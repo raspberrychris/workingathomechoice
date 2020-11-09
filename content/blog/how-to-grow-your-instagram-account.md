@@ -3,8 +3,7 @@ title: How to Grow Your Instagram Account
 featured_image: "https://images.unsplash.com/photo-1505322747495-6afdd3b70760?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 CanonicalUrl: "/how-to-grow-your-instagram-account/"
 ---
-** [Instagram](https://instagram.com) is one of the largest social media platforms on the internet. With over 1 billion monthly active users it is one of the best places to market your brand to a large audience.  More importantly studies also suggest that Instagram influences 75% of purchase decisions.[Source](https://www.retaildive.com/news/study-instagram-influences-almost-75-of-user-purchase-decisions/503336/)
-**
+**[Instagram](https://instagram.com) is one of the largest social media platforms on the internet. With over 1 billion monthly active users it is one of the best places to market your brand to a large audience.  More importantly studies also suggest that Instagram influences 75% of purchase decisions.[Source](https://www.retaildive.com/news/study-instagram-influences-almost-75-of-user-purchase-decisions/503336/)**
 
 ![1-billion-instagram-users](https://foundationinc.co/wp-content/uploads/2019/05/Instagram-1-Billion-Active-Users.png)
 
@@ -32,9 +31,9 @@ Tip: **If you don't know which hashtags to use, there are some handy free tools 
 
 ### The Top Hashtag generator tools worth checking out
 
-[AI Hashtag generator ingramer](https://ingramer.com/tools/instagram-hashtag-generator/)
-[All Hashtag Generator](https://www.all-hashtag.com/hashtag-generator.php)
-[Sistrix Hashtag Generator](https://app.sistrix.com/en/instagram-hashtags)
+>[AI Hashtag generator Ingramer](https://ingramer.com/tools/instagram-hashtag-generator/)
+>[All Hashtag Generator](https://www.all-hashtag.com/hashtag-generator.php)
+>[Sistrix Hashtag Generator](https://app.sistrix.com/en/instagram-hashtags)
 
 ## 3. Post Regularly (..But not too regularly)
 
