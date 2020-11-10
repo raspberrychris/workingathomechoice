@@ -51,7 +51,7 @@ A lot of people won’t admit to it, but it really is important to not WFB.  Mai
 For smaller spaces where you feel like you are too close to your partner’s loud Zoom calls, headphones are actually a fantastic investment for whisking you away to somewhere else.  If you need to concentrate on your work then some noise cancelling headphones can be a great investment, and you can take Microsoft Teams calls on them as well, so they will double up for work and pleasure.
 If things get tough, go outside and get some fresh air
 
-Sometimes home working can not always be as harmonious as we are all meant to believe it is and things can go wrong.  If you were in the office you could just walk away and sit in a different part of the office, but at your own home it can be hard to walk away -  and bear in mind that this isn’t just a colleague this is your partner!  Grabbing a breath of fresh air outside and going for a quick walk can be a great way to quickly reflect on what has just happened.  Make sure you act calmly, where possible.
+Sometimes home working can not always be as harmonious as we are all meant to believe it is and things can go wrong.  If you were in the office you could just walk away and sit in a different part of the office, but at your own home it can be hard to walk away and bear in mind that this isn’t just a colleague this is your partner!  Grabbing a breath of fresh air outside and going for a quick walk can be a great way to quickly reflect on what has just happened.  Make sure you act calmly, where possible.
 
 ### Agree on a shared lunch time, break time or “home time”
 
