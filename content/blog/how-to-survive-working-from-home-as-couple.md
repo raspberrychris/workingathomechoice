@@ -6,7 +6,7 @@ CanonicalUrl: "/how-to-surive-working-from-home-as-couple/"
 
 # How to survive working from home as a couple: Survival Guide
 
-**The global pandemic has brought us lots of changes and this has made working from home a new challenge for couples.  For many couples, office life pre-pandemic meant spending most of the day apart and maybe exchanging pleasantries in the evening over a glass of your favourite tipple together.  Now many couples in lockdown are finding that they are spending all of their days together now especially in countries where there is a lockdown.  This can be great for some couples but for others it can cause tension.  What started off as a novelty for some couples “look at us we are working from home, isn’t it great” has now turned into a battlefield, and undoubtedly it may have caused some couples to split up as a result.  This is a guide on how to survive working with your partner, and still love them at the end of your working day!  
+**The global pandemic has brought us lots of changes and this has made working from home a new challenge for couples.  For many couples, office life pre-pandemic meant spending most of the day apart and maybe exchanging pleasantries in the evening over a glass of your favourite tipple together.  Now many couples in lockdown are finding that they are spending all of their days together now especially in countries where there is a lockdown.  This can be great for some couples but for others it can cause tension.  What started off as a novelty for some couples “look at us we are working from home, isn’t it great” has now turned into a battlefield, and undoubtedly it may have caused some couples to split up as a result.  This is a guide on how to survive working with your partner, and still love them at the end of your working day!**  
 
 ## For some couples WFH has been great
 
@@ -68,7 +68,8 @@ Secondarily, it is definitely worth sharing your work schedule with your partner
 You cannot blame your partner for starting to make a cup of coffee or tea when you need to lead an important call if they didn’t know about it!
 
 Give them more information, share your schedule. Believe me, they don’t want to feature on your video call, as much as you don’t want them to.
-Don’t try to alter your work persona too muchw
+
+## Don’t try to alter your work persona too much.
 
 Third, be proud of your work-persona. Many people have slightly different personality at work. It helps you to be more bold to get work done, or maybe be more friendly to obtain the supports you need. However you may not have necessarily had to show this side of you to your partner before. They may find this “new you” different, but it’s important that they see this side of you as well.
 
