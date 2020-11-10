@@ -53,15 +53,15 @@ This depends.
 
 - **If you are operating a larger business in the tech industry that doesn't rely on office space, then the answer is likely to be that you can start to consider this way of working on a more permanent basis.  
 
-Studies have shown that it is a myth that employees will slack off from work while working from home and that infact employees are actually very productive at home.
+Studies have shown that it is a myth that employees will slack off from work while working from home and that in fact employees are actually very productive at home.
 
-The big issue for companies that offer WFH opportunities is the risk to their data and the possibilty of a data breach.
+The big issue for companies that offer WFH opportunities is the risk to their data and the possibility of a data breach.
 
 According to a study by [Skillcast](https://www.skillcast.com/hs-fs/hubfs/Blog%20-%20Images/2005%20Blog/WFH_Data_Security_Chart_1.png?width=600&name=WFH_Data_Security_Chart_1.png)  the biggest risk of WFH for corporations comes from employees browsing non work related websites during their breaks, with **56%** of people in the survey suggesting that they would do this.
 
 ![Skillcast Study](https://www.skillcast.com/hs-fs/hubfs/Blog%20-%20Images/2005%20Blog/WFH_Data_Security_Chart_1.png?width=600&name=WFH_Data_Security_Chart_1.png)
 
-- Health concerns of employees.  Employees WFH don't have the appropriate setup that they do when they are in the office and this means that they don't invest in things such as a **good office chair** a **back support** to stop back pain, or **appropriate lighting** that would prevent them getting eye strain.  Couple with this the fact that many employees are renting and live in shared accomodation means that their mental health may suffer as a result.
+- Health concerns of employees.  Employees WFH don't have the appropriate setup that they do when they are in the office and this means that they don't invest in things such as a **good office chair** a **back support** to stop back pain, or **appropriate lighting** that would prevent them getting eye strain.  Couple with this the fact that many employees are renting and live in shared accommodation means that their mental health may suffer as a result.
 
 
 
