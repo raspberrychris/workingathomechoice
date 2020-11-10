@@ -1,5 +1,5 @@
 ---
-title: How to survive working from home as a couple: Survival Guide
+title: How to survive working from home as a couple
 featured_image: "https://images.unsplash.com/photo-1488115996407-4a1e52e0481c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 CanonicalUrl: "/how-to-surive-working-from-home-as-couple/"
 ---
