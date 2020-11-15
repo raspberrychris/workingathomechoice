@@ -6,8 +6,6 @@ title: "How to work from home with a Cat"
 CanonicalUrl: "/how-to-work-from-home-with-cat/"
 ---
 
-# How to Work from Home with a Cat
-
 ![wfh-with-a-cat](https://images.unsplash.com/photo-1535696588143-945e1379f1b0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 Since the Global Pandemic a lot of people have considered getting pets to keep them company.  You may have already realised that **Working from home** presents a very good opportunity to get a new feline friend and companion. You may be one of those people who wanted to have a cat in your life for a long time, but had to put the idea aside because of your busy life, long hours in the office and hours spent on commuting. You would not want them to be lonely at home during the day. But now it is a whole different story. So many people started to work from home more regularly. So you do not need to worry about your cat while you are busy working on your desk. Rather you and your cat will keep each other company. How lovely does that sound? So now that you have decided to have a cat as your furry friend /colleague, or are waiting them to come to your home, you may wonder what it is like to work with them around, and how to make it to be the best time for both of you.
