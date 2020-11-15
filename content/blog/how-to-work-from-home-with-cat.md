@@ -17,7 +17,7 @@ Since the Global Pandemic a lot of people have considered getting pets to keep t
 5. Keeping your house safe for Cats whilst WFH
 
 
-## Caring For Your Cat
+## 1.Caring For Your Cat
 
 ![Cat Care](https://images.unsplash.com/photo-1513325311554-919df6bad5fd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
 
@@ -27,7 +27,7 @@ So if you are expecting long working hours, it is the best to put some time in t
 
 Playing with your cat in the evening is also highly recommended before you go to bed, so that your cat is not too energetic in night and keep waking you up with dashing sounds or constant meowing. The more you play and keep them awake in the day time, more likely that your cat sync with your sleep pattern, despite they’re born nocturnal, which will help you both having happy life together.
 
-## Feeding your Cat
+## 2. Feeding your Cat
 
 Feeding a cat often considered as a much easier job than feeding a dog. It is true that normally you can leave a ball of their food on the floor, and they will eat it little by little. You may need to fill up the bowl once a day. This will work for most of houses with cats going outside and explore. However if you have an indoor cat, or one of those cats not good at control their appetite, then it is a different story.
 
@@ -37,15 +37,15 @@ If your cat doesn’t go out for various reasons, then their amount of activitie
 
 Sometimes cats are not particularly good at controlling their appetite. They are likely to eat all the food they can in the bowl very quickly and risk throwing it up. Intermediate feeding is also the good option in these cases, as it will help them not have too much food too fast. If you give same amount of food a day, but spaced out to multiple feedings, this will allow your cat to feed on only small amount of food at the time, and it will help them to digest it better.
 
-###  Cat Food Portion Control
+### Cat Food Portion Control
 
 There are some nifty gadgets that can enable portion control for Cats, such as a ball that dispenses crunchy snacks and a timer for wet food.  These types of devices all help to regulate your Cat's intake of food.  Having these types of gadgets may seem a bit gimmicky, but when you are working at home the last thing you want to do is to clean up Cat Poo or Cat Sick because your Cat has overeaten.  So this is a great hands off approach to portion control for your Cat.  This will ensure that you can have a relaxed day working from home, and only have to worry about work!
 
-## Monitoring your Cat’s Water Intake
+### Monitoring your Cat’s Water Intake
 
 Some Cats are known to dislike water. They do drink water of course, but some cats are known to be very fussy and have specific drinking habits. Some cats drink only running water from a tab, whilst some only drinks cold water. It is important them to drink good amount of water to prevent kidney or urinary track disease. You should watch how your cat react to various water feeding conditions; whether they run for running tab water, or they prefer raised water bowl to avoid their face getting damp, and try to provide the best drinking option for them. Luckily there are many different drinking fountains available for cats because of this reason, which will help to keep your cat healthy and well hydrated.
 
-## Vet Visits with your Cat
+## 3. Vet Visits with your Cat
 
 Working from home will definitely help your vet visits. Maybe you can start early and finish early, when your manager agrees, and take your pet to a vet for regular visits on weekday late afternoon, instead of spending Saturday on vet waiting room. Your cat would need annual or bi-annual check ups and vaccination to stay healthy. Also Please mind that even if your cat is generally healthy and careful one, who is unlikely to be involved in an accident, there is a still chance they fell ill unexpectedly and you should have a pet insurance to cover such unexpected costs.
 
@@ -53,7 +53,7 @@ Working from home will definitely help your vet visits. Maybe you can start earl
 
 Some Animal insurance policies  allow you to contact a vet and have an initial video chat consultation.  This can be useful to get a quick understanding of how your Cat is ill and can also be useful for those who are working from home, or unable to leave the house.  Make sure it is included in your policy if you are planning to work from home.
 
-## Cats and Establishing Your Working area
+## 4. Cats and Establishing Your Working area
 
 ![Cat-careful-wfh](https://images.unsplash.com/photo-1533743983669-94fa5c4338ec?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=983&q=80)
 
@@ -63,7 +63,7 @@ If they play near to working area, tell them clearly in firm voice, showing the 
 
 If these methods don’t work with your cat, you should keep your cat out of your working area/office room, so that they don’t interrupt your work. Not many of your colleagues will be offended if your cat suddenly appears on Zoom call and looking for an opportunity to introduce themselves, however it won’t look too professional to have a visitor if you have a really important meeting. Ensure your working space is free of interruption, if you do expect a serious call that you don’t want your Cat Meowing around you, make sure your cat is safe and well in the other room and lock the door! As they may be able to open the door themselves. But who knows, they may be able to melt the frozen heart of your clients with loving face, so don’t get panicked and stay cool if that happens!
 
-## Keeping Your House Safe for your Cats whilst WFH
+## 5. Keeping Your House Safe for your Cats whilst WFH
 
 ![WFH-with-cats](https://images.unsplash.com/photo-1491485880348-85d48a9e5312?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
