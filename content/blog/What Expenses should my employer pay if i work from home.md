@@ -3,7 +3,7 @@
 featured_image: "https://images.unsplash.com/photo-1591088520983-5afbf1efdde2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 tags: ["WFH"]
 title: "What expenses should my employer pay if i work from home"
-CanonicalUrl: "https://workathomechoice.com/blog/what-expenses-should-my-employer-pay-if-i-work-from-home"
+CanonicalUrl: "https://workathomechoice.com/blog/what-expenses-should-my-employer-pay-work-from-home"
 ---
 
 # What expenses should my employer pay if I work from home?
