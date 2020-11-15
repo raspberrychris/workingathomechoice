@@ -1,7 +1,4 @@
 User-agent: *
+Disallow: /tags/
 
-{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
-  
-{{ else }}
-
-{{ end }}
+Sitemap: https://workathomechoice.com/sitemap.xml
