@@ -34,6 +34,7 @@ For those who were lucky enough not to be made redundant and have been able to w
 
 9. Fitness Class Instructor
 
+10. YouTuber
 
 ## 1. Remote Teacher
 
