@@ -5,8 +5,6 @@ type: page
 CanonicalUrl: "/attitudes-to-working-from-home-are-changing/"
 ---
 
-# How attitudes to working from home are changing
-
 **You only have to read the news this week in the UK to to see lots of influencial websites are again covering the topic of Working from Home.**
 
 The **[BBC](https://www.bbc.co.uk/news/uk-54886125)**, **[Guardian](https://www.theguardian.com/commentisfree/2020/nov/18/working-from-home-living-coronavirus-remote)** and **[Telegraph](https://www.telegraph.co.uk/technology/2020/11/19/google-employees-productive-working-home/)** all covered the topic of working from home in the last two days showing how popular a topic it is becoming, and that the demand for such content is increasing.
