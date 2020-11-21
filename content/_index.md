@@ -10,7 +10,7 @@ Welcome to [Workathomechoice.com!](/)  This site will provide advice for those w
 
 ### Skip to our top recommended ways to make money online now:
 
-[Passive Income Methods](/how-to-make-a-passive-income/)
+[Passive Income Methods](/how-to-make-passive-income/)
 [Blog](/blog/)
 [Go Freelance](/freelancing/)
 
