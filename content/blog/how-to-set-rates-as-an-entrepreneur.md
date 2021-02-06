@@ -11,13 +11,13 @@ Entrepreneurs that start their own small businesses within the service industry 
 Setting entrepreneur rates right from Day One of business in the service industry is incredibly important because of the relationship between hourly billing rates and salary affordability and the difficulty of changing rates significantly without alienating clients if they end up being too low to nourish small business growth. Anyone running his/her own small business will also have to cover all costs associated with running it.
 The benefit of many types of service businesses – such as computer consulting companies and accounting companies – is that the overhead can be quite low and often the business can be headquartered at home. Still, some sample general business expenses that will figure into setting appropriate entrepreneur rates are:
 
-•	Petrol/Tolls
-•	Marketing Costs (Advertising and Promotional Activities, Subscriptions to Trade Magazines, Membership Fees for Trade and Networking Organisations),
-•	Office Supplies
-•	Computer Hardware, Peripherals, Software
-•	Training Costs to Keep Skills Sharp
-•	Telephone, Cell Phone and Internet Charges
-•	Business Insurance and Personal Health Insurance.
+- Petrol/Tolls
+- Marketing Costs (Advertising and Promotional Activities, Subscriptions to Trade Magazines, Membership Fees for Trade and Networking Organisations),
+- Office Supplies
+- Computer Hardware, Peripherals, Software
+- Training Costs to Keep Skills Sharp
+- Telephone, Cell Phone and Internet Charges
+- Business Insurance and Personal Health Insurance.
 
 An entrepreneur that can value his/her time properly from the beginning will get plenty of customers and a business that pays well. Someone that sets prices too high will have customers that go elsewhere, and someone that sets them too low could end up working every hour of the day just to break even or even lose money.
 
