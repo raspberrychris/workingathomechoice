@@ -3,7 +3,7 @@
 featured_image: "https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
 tags: ["WFH"]
 title: "Video Conference for Small Business with Skype"
-CanonicalUrl: "/tips-for-working-from-home/"
+CanonicalUrl: "/video-conference-for-small-business-with-skype/"
 ---
 
 ## Video Conference Calls & Small Business Phone Services From Skype
